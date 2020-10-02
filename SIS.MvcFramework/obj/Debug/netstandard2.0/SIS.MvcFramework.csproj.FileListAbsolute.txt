@@ -1,0 +1,12 @@
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/bin/Debug/netstandard2.0/SIS.MvcFramework.deps.json
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/bin/Debug/netstandard2.0/SIS.MvcFramework.dll
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/bin/Debug/netstandard2.0/SIS.MvcFramework.pdb
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/bin/Debug/netstandard2.0/SIS.HTTP.dll
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/bin/Debug/netstandard2.0/SIS.HTTP.pdb
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.csprojAssemblyReference.cache
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.AssemblyInfoInputs.cache
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.AssemblyInfo.cs
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.csproj.CoreCompileInputs.cache
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.csproj.CopyComplete
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.dll
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/obj/Debug/netstandard2.0/SIS.MvcFramework.pdb

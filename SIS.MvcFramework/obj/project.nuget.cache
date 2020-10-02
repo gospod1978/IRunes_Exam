@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6XF31W9Xk26W7Jl27p+U60OTEMwh4kyS6ycbCaWIj24mkTdUDRZ1UroK5UeLV+k+SmLGe5uPRHgIyewVcxlNg==",
+  "success": true,
+  "projectFilePath": "/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.MvcFramework/SIS.MvcFramework.csproj",
+  "expectedPackageFiles": [
+    "/Users/gospod1978/.nuget/packages/microsoft.codeanalysis.analyzers/2.9.6/microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/microsoft.codeanalysis.common/3.4.0/microsoft.codeanalysis.common.3.4.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/microsoft.codeanalysis.csharp/3.4.0/microsoft.codeanalysis.csharp.3.4.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.collections.immutable/1.5.0/system.collections.immutable.1.5.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/Users/gospod1978/.nuget/packages/system.threading.tasks.extensions/4.5.3/system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/bin/Debug/netstandard2.0/SIS.HTTP.deps.json
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/bin/Debug/netstandard2.0/SIS.HTTP.dll
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/bin/Debug/netstandard2.0/SIS.HTTP.pdb
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/obj/Debug/netstandard2.0/SIS.HTTP.AssemblyInfoInputs.cache
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/obj/Debug/netstandard2.0/SIS.HTTP.AssemblyInfo.cs
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/obj/Debug/netstandard2.0/SIS.HTTP.csproj.CoreCompileInputs.cache
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/obj/Debug/netstandard2.0/SIS.HTTP.dll
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/obj/Debug/netstandard2.0/SIS.HTTP.pdb
+/Users/gospod1978/Desktop/SoftUni/WEB_022020/IRunes/IRunesDemo/SIS.HTTP/obj/Debug/netstandard2.0/SIS.HTTP.csprojAssemblyReference.cache
